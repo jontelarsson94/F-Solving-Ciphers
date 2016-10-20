@@ -1,0 +1,8 @@
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FsProj.exe.config
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FsProj.XML
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FsProj.exe
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FsProj.pdb
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FSharp.Core.dll
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\bin\Debug\FSharp.Core.xml
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\obj\Debug\FsProj.exe
+C:\Users\jonathan\documents\visual studio 2015\Projects\FsProj\FsProj\obj\Debug\FsProj.pdb
